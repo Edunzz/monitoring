@@ -10,6 +10,11 @@ sites:
     expectedStatusCodes:
       - 403
       - 200
+  - name: Elastic
+    url: http://104.154.150.209:5601/app/home#/
+    expectedStatusCodes:
+      - 800
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
