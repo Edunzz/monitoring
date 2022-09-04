@@ -8,7 +8,7 @@ sites:
   - name: JAportal
     url: http://104.154.150.209:85/index
     expectedStatusCodes:
-      - 404
+      - 403
       - 200
 
 status-website:
