@@ -22,19 +22,19 @@
     "url": "http://104.154.150.209:85/index",
     "icon": "https://favicons.githubusercontent.com/104.154.150.209",
     "slug": "j-aportal",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 86,
-    "timeDay": 56,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 90,
+    "timeDay": 92,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {
-      "2022-09-10": 0,
+      "2022-09-10": 14,
       "2022-09-04": 45
     }
   },
@@ -44,18 +44,18 @@
     "icon": "https://favicons.githubusercontent.com/104.154.150.209",
     "slug": "elastic",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 253,
     "timeDay": 226,
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2022-09-10": 0
+      "2022-09-10": 14
     }
   }
 ]
