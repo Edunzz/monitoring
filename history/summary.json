@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 128,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 92,
+    "timeDay": 70,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/104.154.150.209",
     "slug": "j-aportal",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 90,
-    "timeDay": 92,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 88,
+    "timeDay": 101,
+    "timeWeek": 88,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {
-      "2022-09-10": 14,
       "2022-09-04": 45
     }
   },
@@ -44,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/104.154.150.209",
     "slug": "elastic",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "93.99%",
+    "uptimeDay": "59.61%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "93.99%",
+    "uptimeYear": "93.99%",
     "time": 253,
-    "timeDay": 226,
+    "timeDay": 0,
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2022-09-10": 14
+      "2022-09-11": 31,
+      "2022-09-10": 551
     }
   }
 ]
